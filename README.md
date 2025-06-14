@@ -20,16 +20,6 @@ Status:      BUILDING PROJECTS...
 
 ---
 
-## 💫 About Me
-
-- 🧘‍♀️ I enjoy building simple, elegant tools that help people focus.
-- 🧠 Always exploring the intersection between code, creativity, and calm.
-- 🌱 Currently working on: **FocusFlow** – a minimalist to-do list app.
-- 📍 Based in Indonesia 🇮🇩
-- ☕ I love coffee, silence, and dark themes.
-
----
-
 ## 🛠️ Tech Stack
 
 > LANGUAGES:
@@ -40,3 +30,30 @@ Status:      BUILDING PROJECTS...
 
 > EDITORS:
   - VSCode, Neovim (sometimes 😎)
+
+---
+
+## 📁 Projects Deployed
+
+$ git clone https://github.com/kyrachn/focusflow  
+> FocusFlow — minimalist, distraction-free to-do list.
+
+---
+
+## 🔍 Trace Logs
+
+$ whoami
+> Kyra — Builder of focused tools
+
+$ uptime
+> up 5+ years, 99.9% focused
+
+$ fortune | cowsay
+"Minimal UI. Maximal Impact."
+
+---
+
+# 📡 Contact Interface
+
+$ ping github.com/kyrachn
+> Online ✔️
