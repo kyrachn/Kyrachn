@@ -2,7 +2,7 @@
 
 <p align="center">
   ✨ Dreamer • 💻 Developer • 🎨 Minimalist
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+digital+space!;I+build+clean+and+minimal+projects.;Always+learning,+always+curious.🌱&center=true&width=500&height=30" />
