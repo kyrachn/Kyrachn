@@ -1,12 +1,22 @@
-<h1 align="center">Hey, I'm Kyra 👋</h1>
-
+<h1 align="center">👾 Kyra // root@kyrachn</h1>
 <p align="center">
-  ✨ Dreamer • 💻 Developer • 🏡 Minimalist
+  <em>"Code is poetry. Simplicity is elegance."</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+digital+space!;I+build+clean+and+minimal+projects.;Always+learning,+always+curious.🌱&center=true&width=500&height=30" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=cd+~/kyrachn;ls+-la;./focusflow.sh;echo+%22Welcome+to+my+lab.%22" alt="Typing SVG">
 </p>
+
+---
+
+### 🕶️ SYSTEM OVERVIEW
+
+```bash
+User:        kyrachn  
+Role:        Indie Dev / UX Purist  
+Location:    ~/IDN  
+Terminal:    zsh — theme: dark  
+Status:      BUILDING PROJECTS...
 
 ---
 
@@ -22,12 +32,11 @@
 
 ## 🛠️ Tech Stack
 
-```yaml
-Languages:
-  - HTML
-  - CSS
-  - JavaScript
-Tools:
-  - VS Code
-  - Git & GitHub
-  - Figma (a little!)
+> LANGUAGES:
+  - JavaScript, Dart, HTML, CSS
+
+> FRAMEWORKS & TOOLS:
+  - Flutter, Firebase, Tailwind, Git, Figma, Shell
+
+> EDITORS:
+  - VSCode, Neovim (sometimes 😎)
