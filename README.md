@@ -3,7 +3,7 @@
 </h1>
 
 ```diff
-# [ KYRA ]
+# [ Muhammad Faisal Alfarizky ]
 + Digital Architect & Minimalist Hacker
 - Full-Stack Explorer | OSS Enthusiast | Terminal Poet
 ```
