@@ -11,7 +11,7 @@
 ```bash
 > ls ~/about-me
 
-👤 Name        : KYRA  
+👤 Name        : Muhammad Faisal Alfarizky  
 💻 Stack       : JavaScript, Python, Node.js, MongoDB  
 ⚙️ OSINT Tool  : GitHub, Terminal, Curiosity  
 📂 Project     : FocusFlow (Zen Productivity App)  
