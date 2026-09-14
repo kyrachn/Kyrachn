@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=%3E+Hello%2C+I+am+KYRA;_%3E+Cyber+Minimalist.;%3E+Coding+Reality+since+202X..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=%3E+Hello%2C+I+am+KYRA;_%3E+Cyber+Security.;%3E+Coding+Reality+since+2019..." alt="Typing SVG" />
 </h1>
 
 ```diff
